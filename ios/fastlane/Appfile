@@ -1,0 +1,8 @@
+app_identifier("com.sd.openinvite") # The bundle identifier of your app
+apple_id("deepaknatraj25@icloud.com") # Your Apple email address
+
+itc_team_id("121075776") # App Store Connect Team ID
+team_id("9897SBDPP7") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile

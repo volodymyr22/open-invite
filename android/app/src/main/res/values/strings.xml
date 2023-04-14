@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenInvite</string>
+    <string name="facebook_app_id">782459745828876</string>
+    <string name="fb_login_protocol_scheme">fb782459745828876</string>
+</resources>

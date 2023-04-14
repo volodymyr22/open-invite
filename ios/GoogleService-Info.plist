@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>488434187737-impuovdciog7g2j1iru42nr1vjg64qbm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.488434187737-impuovdciog7g2j1iru42nr1vjg64qbm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB5cYbChskWgt9iQh2uuJpSuxofjlIPBVg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>488434187737</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sd.openinvite</string>
+	<key>PROJECT_ID</key>
+	<string>opninvite</string>
+	<key>STORAGE_BUCKET</key>
+	<string>opninvite.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:488434187737:ios:c8afa4fa5673d776046dc8</string>
+	<key>DATABASE_URL</key>
+	<string>https://opninvite.firebaseio.com</string>
+</dict>
+</plist>
